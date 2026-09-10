@@ -1,6 +1,8 @@
 <div align="center">
   
-### <div align="center">I'm Kris!</div>  
+### <div align="center">I'm Kris!</div>
+
+<br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -39,11 +41,4 @@
 </a>  
 </div>  
   
-<br/>  
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
 <br/>  
