@@ -105,72 +105,15 @@ and turning ideas into practical software projects.
 
 <br/>
 
-## Currently Working On
+##  Areas of Interest
 
 <div align="center">
-
-### Engineering Drawing Vectorization
-
-**Neural-network based software for converting raster engineering drawings into editable vector graphics.**
-
-<br/>
-
-`Python` `PyTorch` `U-Net` `OpenCV` `PySide6` `ezdxf`
-
-<br/><br/>
-
-```text
-        RASTER DRAWING
-              │
-              ▼
-     IMAGE PREPROCESSING
-              │
-              ▼
-     NEURAL NETWORK
-        RECOGNITION
-              │
-              ▼
-       VECTORIZATION
-              │
-              ▼
-             DXF
-```
-
-</div>
-
----
-
-## 🧠 Areas of Interest
-
-<div align="center">
-
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-071A2B?style=for-the-badge&logoColor=38D9FF"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-071A2B?style=for-the-badge&logoColor=38D9FF"/>
 <img src="https://img.shields.io/badge/Computer%20Vision-071A2B?style=for-the-badge&logoColor=38D9FF"/>
 <img src="https://img.shields.io/badge/Neural%20Networks-071A2B?style=for-the-badge&logoColor=38D9FF"/>
 <img src="https://img.shields.io/badge/Image%20Processing-071A2B?style=for-the-badge&logoColor=38D9FF"/>
 <img src="https://img.shields.io/badge/Python%20Development-071A2B?style=for-the-badge&logoColor=38D9FF"/>
-
-</div>
-
-<br/>
-
----
-
-## GitHub Stats
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dolzhkris&show_icons=true&hide_border=true&bg_color=050B14&title_color=38D9FF&icon_color=00BFFF&text_color=A8E8FF&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolzhkris&layout=compact&hide_border=true&bg_color=050B14&title_color=38D9FF&text_color=A8E8FF" />
-
-</div>
-
-<br/>
-
-## Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dolzhkris&bg_color=050B14&color=38D9FF&line=00BFFF&point=A8E8FF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -185,14 +128,6 @@ and turning ideas into practical software projects.
 <a href="https://www.linkedin.com/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-071A2B?style=for-the-badge&logo=linkedin&logoColor=38D9FF"/>
 </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### <span style="color:#38D9FF;">`< code • create • learn • repeat />`</span>
 
 </div>
 
