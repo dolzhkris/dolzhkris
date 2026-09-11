@@ -43,8 +43,10 @@
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="Adobe After Effects"/></a>
 <a href="https://www.blender.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender"/></a>
+<a href="https://www.unity.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="Unity"/></a>  
 <a href="https://www.maxon.net/en/zbrush" target="_blank">
-  <img src="https://skillicons.dev/icons?i=zbrush" height="40" alt="ZBrush"/></a>
+  <img src="https://img.shields.io/badge/-ZBrush-333333?style=for-the-badge&logo=zbrush&logoColor=white" height="40" alt="ZBrush"/></a>
 
 
 
