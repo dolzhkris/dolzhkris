@@ -1,12 +1,18 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,50:071A2B,100:00BFFF&height=100&section=header"/>
 
-# <span style="color:#38D9FF;">Hi, I'm Kris! 👋</span>
-
-### <span style="color:#A8E8FF;">Junior Python Developer <br/><br/> Computer Engineering Graduate</span>
+</div>
 
 <br/>
 
+<div align="center">
+<h1>Hi, I'm Kris! 👋</h1>
+<h3>Junior Python Developer</h3>
+<h3>Computer Engineering Graduate</h3>
+
 </div>
+
+<br/>
 
 ##  Skills
 
@@ -79,7 +85,5 @@
 <br/>
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,50:071A2B,100:00BFFF&height=100&section=footer"/>
-
 </div>
