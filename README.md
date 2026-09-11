@@ -25,7 +25,7 @@
   
 ###  Technologies
 
-<img src="https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
 <img src="https://img.shields.io/badge/OpenCV-Intermediate-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/U--Net-Intermediate-00BFFF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/YOLOv5-Intermediate-071A2B?style=for-the-badge"/>
