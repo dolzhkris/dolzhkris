@@ -2,7 +2,7 @@
 
 # <span style="color:#38D9FF;">Hi, I'm Kris! 👋</span>
 
-### <span style="color:#A8E8FF;">Computer Engineering Graduate <br/> Junior Python Developer</span>
+### <span style="color:#A8E8FF;">Junior Python Developer <br/><br/> Computer Engineering Graduate</span>
 
 <br/>
 
@@ -22,13 +22,15 @@
   <img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=js" height="55" alt="JavaScript"/> </a>
-  
+
+<br/>
 ####  Technologies & Libraries
 
 <img src="https://img.shields.io/badge/PyTorch-009bc2?"/> <img src="https://img.shields.io/badge/OpenCV-0087a8?"/> <img src="https://img.shields.io/badge/U--Net-00728f?"/> <img src="https://img.shields.io/badge/YOLOv5-00627a?"/> <img src="https://img.shields.io/badge/Tesseract_OCR-005266?"/> <img src="https://img.shields.io/badge/NumPy-004152?"/> <img src="https://img.shields.io/badge/PyGame-00313d?"/> <img src="https://img.shields.io/badge/PySide6-002129?"/> <img src="https://img.shields.io/badge/ezdxf-001419?"/> <img src="https://img.shields.io/badge/Other..-000000?"/>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?"/> <img src="https://img.shields.io/badge/Yandex_DataLens-FF0000?"/>
+<img src="https://img.shields.io/badge/MySQL-47a1b8?"/> <img src="https://img.shields.io/badge/Yandex_DataLens-2f6775?"/>
 
+<br/>
 ####  Design, 3D & Creative Tools
 
 <img src="https://img.shields.io/badge/Figma-Intermediate-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -37,9 +39,6 @@
 <img src="https://img.shields.io/badge/Canva-Intermediate-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/Blender-Basic-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
 <img src="https://img.shields.io/badge/ZBrush-Basic-333333?style=for-the-badge"/>
-
-###  Web & Content
-
 <img src="https://img.shields.io/badge/Tilda-Basic-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Premiere_Pro-Basic-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
 <img src="https://img.shields.io/badge/After_Effects-Basic-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
