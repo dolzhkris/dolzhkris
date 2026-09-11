@@ -33,17 +33,19 @@
 
 ####  Design, 3D & Creative Tools
 
-<img src="https://img.shields.io/badge/Figma-Intermediate-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe_Photoshop-Intermediate-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe_Illustrator-Basic-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-Intermediate-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blender-Basic-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
-<img src="https://img.shields.io/badge/ZBrush-Basic-333333?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tilda-Basic-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Premiere_Pro-Basic-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
-<img src="https://img.shields.io/badge/After_Effects-Basic-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
-<img src="https://img.shields.io/badge/CapCut-Intermediate-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Microsoft_Office-Intermediate-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <img src="https://skillicons.dev/icons?i=photoshop" height="55" alt="Adobe Photoshop"/></a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ai" height="55" alt="Adobe Illustrator"/></a>
+<a href="https://www.adobe.com/products/premiere.html" target="_blank">
+  <img src="https://skillicons.dev/icons?i=pr" height="55" alt="Adobe Premiere Pro"/></a>
+<a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ae" height="55" alt="Adobe After Effects"/></a>
+<a href="https://www.blender.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=blender" height="55" alt="Blender"/></a>
+<a href="https://www.maxon.net/en/zbrush" target="_blank">
+  <img src="https://skillicons.dev/icons?i=zbrush" height="55" alt="ZBrush"/></a>
+
 
 
 ###  Development & Networking Tools
