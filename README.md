@@ -48,18 +48,16 @@
 <a href="https://www.maxon.net/en/zbrush" target="_blank">
   <img src="https://img.shields.io/badge/-ZBrush-333333?style=for-the-badge&logo=zbrush&logoColor=white" height="40" alt="ZBrush"/></a>
 
-<br/><br/>
-
 </div>
+
+<br/>
 
 ##  Areas of Interest
 
 <div align="center">
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-071A2B?style=for-the-badge&logoColor=38D9FF"/>
+<img src="https://img.shields.io/badge/Neural%20Networks-071A2B?style=for-the-badge&logoColor=38D9FF"/> 
 <img src="https://img.shields.io/badge/Machine%20Learning-071A2B?style=for-the-badge&logoColor=38D9FF"/>
 <img src="https://img.shields.io/badge/Computer%20Vision-071A2B?style=for-the-badge&logoColor=38D9FF"/>
-<img src="https://img.shields.io/badge/Neural%20Networks-071A2B?style=for-the-badge&logoColor=38D9FF"/>
-<img src="https://img.shields.io/badge/Image%20Processing-071A2B?style=for-the-badge&logoColor=38D9FF"/>
 <img src="https://img.shields.io/badge/Python%20Development-071A2B?style=for-the-badge&logoColor=38D9FF"/>
 
 </div>
@@ -72,7 +70,7 @@
 <a href="https://github.com/dolzhkris" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-050B14?style=for-the-badge&logo=github&logoColor=38D9FF"/>
 </a>
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/кристина-должанская-126317436/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-071A2B?style=for-the-badge&logo=linkedin&logoColor=38D9FF"/>
 </a>
 
