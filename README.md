@@ -13,7 +13,7 @@
 ####  Programming Languages
 
 <a href="https://www.python.org/" target="_blank"> 
-  <img src="https://skillicons.dev/icons?i=python" height="55" alt="Python"/> </a> 
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/> </a> 
 <a href="https://isocpp.org/" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="C++"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
@@ -34,17 +34,17 @@
 ####  Design, 3D & Creative Tools
 
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-  <img src="https://skillicons.dev/icons?i=photoshop" height="55" alt="Adobe Photoshop"/></a>
+  <img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="Adobe Photoshop"/></a>
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-  <img src="https://skillicons.dev/icons?i=ai" height="55" alt="Adobe Illustrator"/></a>
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="Adobe Illustrator"/></a>
 <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-  <img src="https://skillicons.dev/icons?i=pr" height="55" alt="Adobe Premiere Pro"/></a>
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="Adobe Premiere Pro"/></a>
 <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
-  <img src="https://skillicons.dev/icons?i=ae" height="55" alt="Adobe After Effects"/></a>
+  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="Adobe After Effects"/></a>
 <a href="https://www.blender.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=blender" height="55" alt="Blender"/></a>
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender"/></a>
 <a href="https://www.maxon.net/en/zbrush" target="_blank">
-  <img src="https://skillicons.dev/icons?i=zbrush" height="55" alt="ZBrush"/></a>
+  <img src="https://skillicons.dev/icons?i=zbrush" height="40" alt="ZBrush"/></a>
 
 
 
