@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,50:071A2B,100:00BFFF&height=100&section=header"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,50:071A2B,100:00BFFF&height=100&section=header"/>
 </div>
 
 <br/>
@@ -9,7 +8,6 @@
 <h1>Hi, I'm Kris! 👋</h1>
 <h3>Junior Python Developer</h3>
 <h3>Computer Engineering Graduate</h3>
-
 </div>
 
 <br/>
@@ -56,34 +54,22 @@
 
 </div>
 
-<br/>
+<br/><br/>
 
-##  Areas of Interest
-
-<div align="center">
-<img src="https://img.shields.io/badge/Neural%20Networks-071A2B?style=for-the-badge&logoColor=38D9FF"/> 
-<img src="https://img.shields.io/badge/Machine%20Learning-071A2B?style=for-the-badge&logoColor=38D9FF"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-071A2B?style=for-the-badge&logoColor=38D9FF"/>
-<img src="https://img.shields.io/badge/Python%20Development-071A2B?style=for-the-badge&logoColor=38D9FF"/>
-
-</div>
-
-<br/>
 
 ## Connect with me
 
 <div align="center">
 <a href="https://github.com/dolzhkris" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-050B14?style=for-the-badge&logo=github&logoColor=38D9FF"/>
-</a>
+  <img src="https://img.shields.io/badge/GitHub-050B14?style=for-the-badge&logo=github&logoColor=38D9FF"/></a>
 <a href="https://www.linkedin.com/in/кристина-должанская-126317436/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-071A2B?style=for-the-badge&logo=linkedin&logoColor=38D9FF"/>
-</a>
-
+  <img src="https://img.shields.io/badge/LinkedIn-050B14?style=for-the-badge&logo=linkedin&logoColor=38D9FF"/></a>
+<a href="https://www.instagram.com/kris.dolzh/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-050B14?style=for-the-badge&logo=instagram&logoColor=38D9FF"/></a>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,50:071A2B,100:00BFFF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,50:071A2B,100:00BFFF&height=100&section=footer"/>
 </div>
