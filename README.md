@@ -48,16 +48,9 @@
 <a href="https://www.maxon.net/en/zbrush" target="_blank">
   <img src="https://img.shields.io/badge/-ZBrush-333333?style=for-the-badge&logo=zbrush&logoColor=white" height="40" alt="ZBrush"/></a>
 
+<br/><br/>
 
-
-###  Development & Networking Tools
-
-<img src="https://img.shields.io/badge/Git-Intermediate-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-Intermediate-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-Advanced-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-Basic-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-Basic-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-
+</div>
 
 ##  Areas of Interest
 
