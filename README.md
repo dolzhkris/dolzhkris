@@ -10,7 +10,7 @@
 
 ##  Skills
 
-###  Programming Languages
+####  Programming Languages
 
 <a href="https://www.python.org/" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=python" height="55" alt="Python"/> </a> 
@@ -23,24 +23,13 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=js" height="55" alt="JavaScript"/> </a>
   
-###  Technologies
+####  Technologies & Libraries
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
-<img src="https://img.shields.io/badge/OpenCV-Intermediate-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/U--Net-Intermediate-00BFFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/YOLOv5-Intermediate-071A2B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tesseract_OCR-Basic-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?"/> <img src="https://img.shields.io/badge/U--Net-00BFFF?"/> <img src="https://img.shields.io/badge/YOLOv5-071A2B?"/> <img src="https://img.shields.io/badge/Tesseract_OCR-4285F4?"/> <img src="https://img.shields.io/badge/NumPy-013243?"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?"/> <img src="https://img.shields.io/badge/PySide6-41CD52?"/> <img src="https://img.shields.io/badge/ezdxf-333333?"/> <img src="https://img.shields.io/badge/Other..-333333?"/>
 
-<img src="https://img.shields.io/badge/NumPy-Intermediate-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-Intermediate-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-Intermediate-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PySide6-Intermediate-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
-<img src="https://img.shields.io/badge/ezdxf-Basic-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?"/> <img src="https://img.shields.io/badge/Yandex_DataLens-FF0000?"/>
 
-<img src="https://img.shields.io/badge/MySQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Yandex_DataLens-Basic-FF0000?style=for-the-badge"/>
-
-###  Design, 3D & Creative Tools
+####  Design, 3D & Creative Tools
 
 <img src="https://img.shields.io/badge/Figma-Intermediate-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe_Photoshop-Intermediate-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
