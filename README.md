@@ -12,7 +12,6 @@
 
 ###  Programming Languages
 
-<div align="center"> 
 <a href="https://www.python.org/" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=python" height="55" alt="Python"/> </a> 
 <a href="https://isocpp.org/" target="_blank"> 
