@@ -6,24 +6,24 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=38D9FF&center=true&vCenter=true&width=600&lines=Python+Machine+Learning;Computer+Vision+Neural+Networks;Building+Learning" alt="Typing SVG" />
-
-<br/><br/>
-
 </div>
 
-##  Skills & Technologies
+##  Skills
 
 ###  Programming Languages
 
-<img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-Basic-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Assembly-Basic-525252?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HTML-Intermediate-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-Intermediate-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-Basic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
+<div align="center"> 
+<a href="https://www.python.org/" target="_blank"> 
+  <img src="https://skillicons.dev/icons?i=python" height="55" alt="Python"/> </a> 
+<a href="https://isocpp.org/" target="_blank"> 
+  <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="C++"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
+  <img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
+  <img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <img src="https://skillicons.dev/icons?i=js" height="55" alt="JavaScript"/> </a>
+  
 ###  Technologies
 
 <img src="https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
