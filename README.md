@@ -25,7 +25,7 @@
   
 ####  Technologies & Libraries
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?"/> <img src="https://img.shields.io/badge/U--Net-00BFFF?"/> <img src="https://img.shields.io/badge/YOLOv5-071A2B?"/> <img src="https://img.shields.io/badge/Tesseract_OCR-4285F4?"/> <img src="https://img.shields.io/badge/NumPy-013243?"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?"/> <img src="https://img.shields.io/badge/PySide6-41CD52?"/> <img src="https://img.shields.io/badge/ezdxf-333333?"/> <img src="https://img.shields.io/badge/Other..-333333?"/>
+<img src="https://img.shields.io/badge/PyTorch-009bc2?"/> <img src="https://img.shields.io/badge/OpenCV-0087a8?"/> <img src="https://img.shields.io/badge/U--Net-00728f?"/> <img src="https://img.shields.io/badge/YOLOv5-00627a?"/> <img src="https://img.shields.io/badge/Tesseract_OCR-005266?"/> <img src="https://img.shields.io/badge/NumPy-004152?"/> <img src="https://img.shields.io/badge/PyGame-00313d?"/> <img src="https://img.shields.io/badge/PySide6-002129?"/> <img src="https://img.shields.io/badge/ezdxf-001419?"/> <img src="https://img.shields.io/badge/Other..-000000?"/>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?"/> <img src="https://img.shields.io/badge/Yandex_DataLens-FF0000?"/>
 
