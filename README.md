@@ -23,14 +23,14 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=js" height="55" alt="JavaScript"/> </a>
 
-<br/>
+
 ####  Technologies & Libraries
 
 <img src="https://img.shields.io/badge/PyTorch-009bc2?"/> <img src="https://img.shields.io/badge/OpenCV-0087a8?"/> <img src="https://img.shields.io/badge/U--Net-00728f?"/> <img src="https://img.shields.io/badge/YOLOv5-00627a?"/> <img src="https://img.shields.io/badge/Tesseract_OCR-005266?"/> <img src="https://img.shields.io/badge/NumPy-004152?"/> <img src="https://img.shields.io/badge/PyGame-00313d?"/> <img src="https://img.shields.io/badge/PySide6-002129?"/> <img src="https://img.shields.io/badge/ezdxf-001419?"/> <img src="https://img.shields.io/badge/Other..-000000?"/>
 
 <img src="https://img.shields.io/badge/MySQL-47a1b8?"/> <img src="https://img.shields.io/badge/Yandex_DataLens-2f6775?"/>
 
-<br/>
+
 ####  Design, 3D & Creative Tools
 
 <img src="https://img.shields.io/badge/Figma-Intermediate-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -45,6 +45,7 @@
 <img src="https://img.shields.io/badge/CapCut-Intermediate-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Microsoft_Office-Intermediate-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
 
+
 ###  Development & Networking Tools
 
 <img src="https://img.shields.io/badge/Git-Intermediate-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -52,6 +53,7 @@
 <img src="https://img.shields.io/badge/VS_Code-Advanced-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-Basic-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wireshark-Basic-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+
 
 ##  Areas of Interest
 
